@@ -1,0 +1,28 @@
+.todo-item{
+    /* width: 100%; */
+    display: flex;
+    border: 1px solid black;
+    padding: 5px;
+
+}
+
+.todo-index{
+    flex-basis: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.todo-title{
+    font-weight: bold;
+}
+
+
+.todo-duration{
+    margin-left: auto;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+                        
+}
